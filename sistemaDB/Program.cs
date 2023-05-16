@@ -35,7 +35,8 @@ namespace mysqlefcore
         // Adds some books
         context.TableClientContract.Add(new ClientContract
         {
-            Name = "Academia Completa"
+            Name = "Academia Completa",
+            ClientSystem = publisher
         });
 
         // Saves changes
