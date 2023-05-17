@@ -35,3 +35,8 @@ C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Microsoft.Extensions.FileProv
 C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\appsettings.json
+C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Humanizer.dll
+C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\GitSource\sistemaweb\sistemaDB\bin\Debug\net7.0\System.CodeDom.dll

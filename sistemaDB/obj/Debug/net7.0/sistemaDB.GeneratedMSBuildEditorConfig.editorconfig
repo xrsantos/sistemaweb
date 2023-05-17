@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sistemaDB
-build_property.ProjectDir = C:\GitSource\sistemaweb\sistemaDB\
+build_property.ProjectDir = c:\GitSource\sistemaweb\sistemaDB\

@@ -12,7 +12,6 @@ namespace SistemaDB.Models
         public DateTime DataFinich { get; set;}
         public bool Active { get; set;}
 
-        [ForeignKey("ClientSystem")]
         public int ClientSystemId { get; set;}
         public virtual ClientSystem ClientSystem { get; set;}
     }
