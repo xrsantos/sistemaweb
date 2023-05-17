@@ -1,15 +1,18 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using Pomelo.EntityFrameworkCore;
 using SistemaDB.Models;
 
-public class ERPDBContext : DbContext
+public class ERPDBContext: DbContext
 {
     private readonly IConfiguration _configuration;
 
+    public ERPDBContext(){
+        var builder = new ConfigurationBuilder()
+            .AddJsonFile($"appsettings.json", true, true);
+        _configuration = builder.Build();
+    }
     public ERPDBContext(IConfiguration configuration){
          _configuration = configuration;
-
     }
 
     public DbSet<ClientSystem> TableClientSystem { get; set; }
