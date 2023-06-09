@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj": {}
+    "c:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj": {}
   },
   "projects": {
-    "C:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj": {
+    "c:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj",
+        "projectUniqueName": "c:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj",
         "projectName": "sistemaapi",
-        "projectPath": "C:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj",
+        "projectPath": "c:\\GitSource\\sistemaweb\\sistemaapi\\sistemaapi.csproj",
         "packagesPath": "C:\\Users\\xrica\\.nuget\\packages\\",
-        "outputPath": "C:\\GitSource\\sistemaweb\\sistemaapi\\obj\\",
+        "outputPath": "c:\\GitSource\\sistemaweb\\sistemaapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xrica\\AppData\\Roaming\\NuGet\\NuGet.Config"
