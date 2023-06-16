@@ -37,13 +37,13 @@ public class DatabaseDbContext: DbContext
             entity.Property(e => e.Name).IsRequired();
         });
 
-    //    modelBuilder.Entity<Contract>(entity =>
-    //    {
-    //        entity.HasKey(e => e.Id);
-    //        entity.Property(e => e.Name).IsRequired();
-    //        entity.HasOne(d => d.ClientSystem)
-    //            .WithMany(p => p.ClientContracts);
-    //    });
+        modelBuilder.Entity<User>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+            entity.Property(e => e.Name).IsRequired();
+            entity.Property(e => e.Email).IsRequired();
+            entity.HasOne(e => e.Costumer).WithMany(p => p.User);
+        });
     }
 
 

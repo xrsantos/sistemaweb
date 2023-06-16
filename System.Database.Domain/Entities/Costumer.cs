@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Database.Domain;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace System.Database.Domain.Entities
 {
@@ -10,5 +5,6 @@ namespace System.Database.Domain.Entities
     {
         public string? Name { get; set; }
         public bool FlgEnable { get; set; }
+        
     }
 }

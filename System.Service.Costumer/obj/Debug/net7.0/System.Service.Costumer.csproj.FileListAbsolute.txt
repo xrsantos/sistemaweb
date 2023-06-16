@@ -1,0 +1,12 @@
+C:\GitSource\sistemaweb\System.Service.Costumer\bin\Debug\net7.0\System.Service.Costumer.deps.json
+C:\GitSource\sistemaweb\System.Service.Costumer\bin\Debug\net7.0\System.Service.Costumer.dll
+C:\GitSource\sistemaweb\System.Service.Costumer\bin\Debug\net7.0\System.Service.Costumer.pdb
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.csproj.AssemblyReference.cache
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.AssemblyInfoInputs.cache
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.AssemblyInfo.cs
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.csproj.CoreCompileInputs.cache
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.dll
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\refint\System.Service.Costumer.dll
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\System.Service.Costumer.pdb
+C:\GitSource\sistemaweb\System.Service.Costumer\obj\Debug\net7.0\ref\System.Service.Costumer.dll
