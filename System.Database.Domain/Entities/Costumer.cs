@@ -6,5 +6,6 @@ namespace System.Database.Domain.Entities
         public string? Name { get; set; }
         public bool FlgEnable { get; set; }
         
+        public string Email { get; set; }
     }
 }
