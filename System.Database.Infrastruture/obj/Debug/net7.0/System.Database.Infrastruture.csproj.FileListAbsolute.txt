@@ -1,0 +1,17 @@
+C:\GitSource\sistemaweb\System.Database.Infrastruture\bin\Debug\net7.0\System.Database.Infrastruture.deps.json
+C:\GitSource\sistemaweb\System.Database.Infrastruture\bin\Debug\net7.0\System.Database.Infrastruture.runtimeconfig.json
+C:\GitSource\sistemaweb\System.Database.Infrastruture\bin\Debug\net7.0\System.Database.Infrastruture.dll
+C:\GitSource\sistemaweb\System.Database.Infrastruture\bin\Debug\net7.0\System.Database.Infrastruture.pdb
+C:\GitSource\sistemaweb\System.Database.Infrastruture\bin\Debug\net7.0\System.Database.Domain.dll
+C:\GitSource\sistemaweb\System.Database.Infrastruture\bin\Debug\net7.0\System.Database.Domain.pdb
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.csproj.AssemblyReference.cache
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.AssemblyInfoInputs.cache
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.AssemblyInfo.cs
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.csproj.CoreCompileInputs.cache
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.csproj.CopyComplete
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.dll
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\refint\System.Database.Infrastruture.dll
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.pdb
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\System.Database.Infrastruture.genruntimeconfig.cache
+C:\GitSource\sistemaweb\System.Database.Infrastruture\obj\Debug\net7.0\ref\System.Database.Infrastruture.dll

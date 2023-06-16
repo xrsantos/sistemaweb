@@ -1,0 +1,12 @@
+C:\GitSource\sistemaweb\System.Database.Domain\bin\Debug\net7.0\System.Database.Domain.deps.json
+C:\GitSource\sistemaweb\System.Database.Domain\bin\Debug\net7.0\System.Database.Domain.dll
+C:\GitSource\sistemaweb\System.Database.Domain\bin\Debug\net7.0\System.Database.Domain.pdb
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.csproj.AssemblyReference.cache
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.AssemblyInfoInputs.cache
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.AssemblyInfo.cs
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.csproj.CoreCompileInputs.cache
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.dll
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\refint\System.Database.Domain.dll
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\System.Database.Domain.pdb
+C:\GitSource\sistemaweb\System.Database.Domain\obj\Debug\net7.0\ref\System.Database.Domain.dll
